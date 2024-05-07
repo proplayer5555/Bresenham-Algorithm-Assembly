@@ -43,5 +43,3 @@ Contributions to this repository are welcome! If you have suggestions for improv
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to customize this README file according to your project's specifics and any additional information you'd like to provide!
